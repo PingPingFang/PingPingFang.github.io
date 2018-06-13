@@ -2,57 +2,17 @@
 /* CSS Document */
 
 .A{
+	margin-top:100px;
+	height:300px;
+	width:500px;
 	font-size:35px;
-	font-family:Georgia, "Times New Roman", Times, serif;
-	background:#D20000;
-	width:100%;
+	color:#9C0505;
+	margin-left:200px;
 }
 .B{
-	font-size:35px;
-	background:#FF2B2B;
+	margin-top:50px;
+	margin-left:700px;
+	color:#F00;
+	width:200px;
 }
-.C{
-	width:160px;
-	height:327px;
-	background:#FF2B2B;
-}
-.D{
-	width:100%;
-	height:50px;
-	text-align: center;
-	font-size: 30px;
-}
-.D ul {
-	margin: 0px;
-	padding: 0px;
-	list-style-type: none;
-}
-.D ul li {
-	float:left;
-}
-.D ul li a {
-	padding-left:40px;
-	padding-right:40px;
-	display:block;
-	color:#AC0000;
-	line-height:50px;
-	text-decoration: none;
-}
-.D ul li a:hover{
-	background:#FF5959;
-	color:#750000;
-	text-decoration: none;
-}
-.E {
-	width:100%;
-	height:50px;
-	background:#FF9393;
-	padding-left: 300px;
-}
-.F{
-	font-size:25px;
-}
-.G{
-	font-size:35px;
-	color:#680000;
-}
+	
