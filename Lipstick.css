@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.B{
+	width:70px;
+}
+.A{
+	width:130px;
+	height:200px;
+}
+.C{
+	width:1000px;
+	height:800px;
+	font-size:30px;
+}
+.D{
+	font-size:40px;
+	color:red;
+	margin-left:830px;
+	margin-top:100px;
+}
+	

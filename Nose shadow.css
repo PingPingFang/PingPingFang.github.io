@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.A{
+	margin-left:30px;
+}
+.B{
+	width:700px;
+}
+.C{
+	font-size:35px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	background:#FF4A4A;
+	width:100%;
+}
+.D{
+	font-size:40px;
+	color:red;
+	margin-left:1200px;
+	margin-top:100px;
+}

@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.A{
+	margin-top:100px;
+	height:300px;
+	width:500px;
+	font-size:35px;
+	color:#9C0505;
+	margin-left:200px;
+}
+.B{
+	margin-top:50px;
+	margin-left:700px;
+	color:#F00;
+	width:200px;
+}
+	
